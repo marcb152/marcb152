@@ -7,7 +7,7 @@
   - Unreal Engine 4 | C++ (during a few months only)
   - Windows Presentation Foundation, .NET |C# (during a few months too)
 
-- 💞️ I’m looking to collaborate on whatever I can be interested on (paid work augments my interest), I love 3d realistic survival games & I was a big Minecraft player.
+- 💞️ I'm looking to collaborate on anything I'm interested in (paid work increases my interest), I love realistic 3d survival games and I've been a big Minecraft player.
 
 - 📫 How to reach me:
 	- My Itch.io: https://pinutstudio.itch.io
