@@ -2,12 +2,14 @@
 
 - 👀 I’m interested in programming & gamedev stuff
 
-- 🌱 What I know and for how long:
+- 🌱 My knowledge and experiences:
   - Unity | C# (since september 2017)
   - Unreal Engine 4 | C++ (during a few months only)
   - Windows Presentation Foundation, .NET | C# (during a few months too)
+  - IBM Cplex Studio solver | Optimization Programming Language (during a few months either)
+  - Python bot development using Selenium (during a few weeks)
 
-- 💞️ I'm looking to collaborate on anything I'm interested in (paid work increases my interest), I love realistic 3d survival games and I've been a big Minecraft player.
+- 💞️ I'm looking to collaborate on anything I'm interested in (paid work increases my interest), I love realistic 3d survival games and I've been a huge Minecraft player.
 
 - 📫 How to reach me:
 	- My Itch.io: https://pinutstudio.itch.io
