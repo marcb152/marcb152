@@ -1,14 +1,14 @@
-My name is Marc, I am a student in mathematics & physics, aiming towards a degree in Computer Science.
+👋 My name is Marc, I am a student in mathematics & physics, aiming towards a degree in Computer Science.
 I started to learn gamedev in 2017, and mostly stopped a year ago to focus on my studies. My main fields are video-games and software development.
 
-**My knowledge and experiences:**
+**🌱 My knowledge:**
   - Unity | C# (since september 2017)
   - Unreal Engine 4 | C++ (during a few months only)
   - Windows Presentation Foundation, .NET | C# (during a few months too)
   - IBM Cplex Studio solver | Optimization Programming Language (during a few months either)
   - Python bot development using Selenium (during a few weeks)
 
-**My projects:**
+**🔨 My projects:**
   - Video-game | [Robinson Crusoe](https://pinutstudio.itch.io/robinson-crusoe) | Unity - C#
 	- Status: development paused - not released
 	- Genre: 3D first-person survival game - survive alone on an island
@@ -39,7 +39,7 @@ I started to learn gamedev in 2017, and mostly stopped a year ago to focus on my
 	  - Grass shader with wind and player interaction (coded in Unity shader code, released on my Discord server)
 	  - [Procedural placement](https://www.artstation.com/artwork/aYZqbL): A tool to procedurally place loads of vegetation in a scene while following basic placement rules
 
-**My socials:**
+**📫 My socials:**
   - My Itch.io: https://pinutstudio.itch.io
   - My Discord server (a bit empty for now, sorry about that): https://discord.com/invite/VK2fhu6
   - My Unity profile: https://forum.unity.com/members/marcb152.3300122/
