@@ -9,28 +9,28 @@ I started to learn gamedev in 2017, and mostly stopped a year ago to focus on my
   - Python bot development using Selenium (during a few weeks)
 
 **🔨 My projects:**
-  - Video-game | [Robinson Crusoe](https://pinutstudio.itch.io/robinson-crusoe) | Unity - C#
+  - Video-game | *[Robinson Crusoe](https://pinutstudio.itch.io/robinson-crusoe)* | Unity - C#
 	- Status: development paused - not released
 	- Genre: 3D first-person survival game - survive alone on an island
-  - Video-game | [Isy's adventure](https://pinutstudio.itch.io/endless-runner) | Unity - C#
+  - Video-game | *[Isy's adventure](https://pinutstudio.itch.io/endless-runner)* | Unity - C#
 	- Status: finished - released
 	- Genre: endless runner - avoid obstacles to collect coins
-  - Windows Application | [Wood Firing System 30 (WPF-30)](https://youtu.be/idvNGB1PbCM) | Windows Presentation Foundation (WPF) - C#
+  - Windows Application | *[Wood Firing System 30 (WPF-30)](https://youtu.be/idvNGB1PbCM)* | Windows Presentation Foundation (WPF) - C#
 	- Status: finished - proprietary (closed-source) software
 	- Description: Software used to synchronize and launch fireworks along a musical track
-  - Piece of code | [Realistic way to cut wood in Unreal Engine](https://youtu.be/gYtFAXl5N8A) | Unreal Engine 4 - C++
+  - Piece of code | *[Realistic way to cut wood in Unreal Engine](https://youtu.be/gYtFAXl5N8A)* | Unreal Engine 4 - C++
 	- Status: development temporary paused - not released
 	- Description: An attempt at creating a piece of code able to provide almost realistic wood cutting, fully-procedural, realtime
-  - Unity tool | [Wind Creator](https://github.com/marcb152/Wind-Creator) | Unity - C#
+  - Unity tool | *[Wind Creator](https://github.com/marcb152/Wind-Creator)* | Unity - C#
 	- Status: finished - released
 	- Description: A tool able to bake procedural wind data on any 3D object in order to add Unity's built-in wind simulation to it
-  - Piece of code | Traveling Salesman Problem solver implementation | Console - C++
+  - Piece of code | *Traveling Salesman Problem solver implementation* | Console - C++
  	- Status: almost finished - not released
 	- Description: An implementation of a TSP & PDSTSP solver in C++ using IBM's CPLEX and Concert libraries (see [this paper](https://theses.hal.science/tel-03554311))
-  - Bot | [Microsoft Rewards bot](https://github.com/marcb152/msft-rewards-bot) | Console - Python
+  - Bot | *[Microsoft Rewards bot](https://github.com/marcb152/msft-rewards-bot)* | Console - Python
  	- Status: finished - released
 	- Description: A Selenium bot created to exploit the Microsoft Rewards program (French Microsoft accounts only)
-  - Unity tools | Various Unity tools | Unity - C#
+  - Unity tools | *Various Unity tools* | Unity - C#
 	- Status: unfinished - not released
 	- Tools:
 	  - Vertex baker: A tool to procedurally bake vertex data to any mesh (linear, cylindric and spherical gradients)
