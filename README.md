@@ -50,8 +50,8 @@ Bot | *[Microsoft Rewards bot](https://github.com/marcb152/msft-rewards-bot)* | 
   - Status: finished - released
   - Description: A Selenium bot created to exploit the Microsoft Rewards program (French Microsoft accounts only)
 ---
-Game | *[Remastered TicTacToe game](https://github.com/marcb152/tictactoe_remastered_sms)* | Tkinter GUI - Python
-  - Status: almost finished - released
+Video-game | *[Remastered TicTacToe game](https://github.com/marcb152/tictactoe_remastered_sms)* | Tkinter GUI - Python
+  - Status: finished - released
   - Description: A remake of the TicTacToe game, here the goal is to align 'SMS' letters several times to win the game! Up to 10 players.
 ---
 Unity tools | *Various Unity tools* | Unity - C#
