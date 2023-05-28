@@ -42,7 +42,7 @@ Unity tool | *[Wind Creator](https://github.com/marcb152/Wind-Creator)* | Unity 
   - Status: finished - released
   - Description: A tool able to bake procedural wind data on any 3D object in order to add Unity's built-in wind simulation to it
 ---
-Piece of code | *Traveling Salesman Problem solver implementation* | Console - C++
+Piece of code | *[Traveling Salesman Problem solver implementation](https://github.com/marcb152/TSP-Cplex-solver-cpp)* | Console - C++
   - Status: almost finished - not released
   - Description: An implementation of a TSP & PDSTSP solver in C++ using IBM's CPLEX and Concert libraries (see [this paper](https://theses.hal.science/tel-03554311))
 ---
