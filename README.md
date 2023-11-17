@@ -6,8 +6,8 @@ I started to learn gamedev in 2017, and mostly stopped a year ago to focus on my
 ## 🌱 Knowledge
 
   - Unity | C# (since september 2017)
-  - Unreal Engine 4 | C++ (during a few months only)
-  - Windows Presentation Foundation, .NET | C# (during a few months too)
+  - Unreal Engine 4 | C++ (during a year)
+  - Windows Presentation Foundation, .NET | C# (during a few months)
   - IBM Cplex Studio solver | Optimization Programming Language (during a few months either)
   - Python bot development using Selenium (during a few weeks)
 
